@@ -24,6 +24,8 @@ In the folder `zippedData` are movie datasets from:
 
 These data sets were provided to me a part of the project by the Flatiron School
 
+* put info about new_imdb later *
+
 ## Analysis
 
 There were 3 major questions that required answers for moving forward on something actionable.
