@@ -24,28 +24,35 @@ In the folder `zippedData` are movie datasets from:
 
 These data sets were provided to me a part of the project by the Flatiron School
 
-* put info about new_imdb later *
+**Note: if you would like to run this jupyter notebook, you'll need to download the following data sets from this [link](https://datasets.imdbws.com/) to a folder called "new_imdb" that must exist with the "zippedData" folder. Essentially, the local location should be "zippedData/new_imdb/<file>**
+
+* name.basics.tsv.gz
+* title.akas.tsv.gz
+* title.basics.tsv.gz
+* title.crew.tsv.gz
+* title.principals.tsv.gz
+* title.ratings.tsv.gz
 
 ## Analysis
 
 There were 3 major questions that required answers for moving forward on something actionable.
 
-## 1.) What movie's made the most profit? Are there any traits in common with those?
+### 1.) What movie's made the most profit? Are there any traits in common with those?
 
-A: The data would suggest that the movies that see the most box office success, both as
+The data shows that the movies that see the most box office success, both as
 one of the most common and as one of the highest earners, is 'Action, animation, & Comedy'.
 
 Drama is the most common movie type.
 
 Action, Adventure, & Sci-Fi is the single highest earner genre combination.
 
-## 2.) What movies have the highest Rating?
+### 2.) What movies have the highest Rating?
 
 The data shows that purely drama movies have the highest ratings as well as being the most common genre type.
 
 The second most common genre is Comedy & Drama in combination.
 
-## What is the relation between the findings of Box Office Gross vs. Critical Reviews and Ratings?
+### 3.) What is the relation between the findings of Box Office Gross vs. Critical Reviews and Ratings?
 
 The data shows that Comedy seems to be the middle ground between high earning in box office sales and high ratings. Comedy didn't show to be the highest rated, the most common, or the best selling genre type. However, the data did show that in all instances there was some element of comedy just bellow the top spot. People sincerely like a good laugh and the data shows they will seek it out often and pay well for it.
 
