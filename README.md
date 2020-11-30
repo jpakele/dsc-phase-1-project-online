@@ -60,7 +60,7 @@ The data shows that Comedy seems to be the middle ground between high earning in
 
 As a new studio, it's important to build a reputation and become well known enough to be trusted for likeable content. 'Drama' and  'Drama, Comedy' are safe and provide enough contract between one another to build a reputation for movies that are well liked. This is where Microsoft should start their content creation.
 
-As a transitional movie into higher earning genres movie with a 'Action, Adventure, Comedy' genre combination will both hit on the Comedy you've established yourself for as well as intro duce a new kind of genre to your repetoire
+As a transitional movie into higher earning genres movie with a 'Action, Animation, Comedy' genre combination will both hit on the Comedy you've established yourself for as well as intro duce a new kind of genre to your repetoire
 
 Finally, moving into a movie combining 'Action, Adventure, Sci-Fi' will place Microsoft solidly into higher earning. Fall back to Drama and comedy for damage control with high rating on these genres of movies will solidify your place as a major player in movie media creation.
 
