@@ -39,28 +39,29 @@ There were 3 major questions that required answers for moving forward on somethi
 
 ### 1.) What movie's made the most profit? Are there any traits in common with those?
 
-The data shows that the movies that see the most box office success, both as
-one of the most common and as one of the highest earners, is 'Action, animation, & Comedy'.
+The movies that see the most box office success, both as one of the most common and as one of the highest earners, is 'Action, Animation, & Comedy'.
 
-Drama is the most common movie type.
+'Action, Adventure, & Sci-Fi' is the second most common of the highest earners.
 
-Action, Adventure, & Sci-Fi is the single highest earner genre combination.
+'Action, Adventure, & Sci-Fi' is the single highest earner genre combination.
 
 ### 2.) What movies have the highest Rating?
 
-The data shows that purely drama movies have the highest ratings as well as being the most common genre type.
+The data shows that purely 'Drama' movies have the highest ratings as well as being the most common genre type.
 
-The second most common genre is Comedy & Drama in combination.
+The second most common genre is 'Comedy & Drama' in combination.
 
 ### 3.) What is the relation between the findings of Box Office Gross vs. Critical Reviews and Ratings?
 
-The data shows that Comedy seems to be the middle ground between high earning in box office sales and high ratings. Comedy didn't show to be the highest rated, the most common, or the best selling genre type. However, the data did show that in all instances there was some element of comedy just bellow the top spot. People sincerely like a good laugh and the data shows they will seek it out often and pay well for it.
+Making a well received movie is the only way to achieve huge box office success but it will not guarantee it. It's important to always strive to make a likeable movie because there's almost no evidence to suggest a poorly received movie will ever have a chance of finding box office success.
+
+In other words, it'll be a gamble but likeable movies have the best chance for higher return on investments.
 
 ## Recommendations
 
 As a new studio, it's important to build a reputation and become well known enough to be trusted for likeable content. 'Drama' and  'Drama, Comedy' are safe and provide enough contract between one another to build a reputation for movies that are well liked. This is where Microsoft should start their content creation.
 
-As a transitional movie into higher earning genres movie with a 'Action, Animation, Comedy' genre combination will both hit on the Comedy you've established yourself for as well as intro duce a new kind of genre to your repetoire
+As a transitional movie into higher earning genres movie with a 'Adventure, Animation, Comedy' genre combination will both hit on the Comedy you've established yourself for as well as intro duce a new kind of genre to your repetoire
 
 Finally, moving into a movie combining 'Action, Adventure, Sci-Fi' will place Microsoft solidly into higher earning. Fall back to Drama and comedy for damage control with high rating on these genres of movies will solidify your place as a major player in movie media creation.
 
